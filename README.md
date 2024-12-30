@@ -106,5 +106,3 @@ If you'd like to contribute to this project:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-Let me know if you'd like additional sections or refinements!
